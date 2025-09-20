@@ -50,7 +50,7 @@ It includes detailed information on:
 
   - 📊 data_jobs_all
 
-    ![2_Project_Analysis_Screenshot1.png](img\2_Project_Analysis_Screenshot1.png)
+    ![2_Project_Analysis_Screenshot1.png](Data-Roles-Pay-Analysis-2023\img\2_Project_Analysis_Screenshot1.png)
 
   - 🛠️ data_job_skills
 
